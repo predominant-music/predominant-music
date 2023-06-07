@@ -1,0 +1,61 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///Users/Einpunk%20Community/Documents/predominant-music/horpizy-limz": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "c4a13bc042ba1d7e7e00d5410d84f5860594233deb30403c6f0e3c8f9795c2da",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///Users/Einpunk%20Community/Documents/predominant-music/horpizy-limz"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///Users/Einpunk%20Community/Documents/predominant-music/horpizy-limz",
+            "backupPath": "/Users/Einpunk Community/Documents/predominant-music/Library/Application Support/Code/Backups/1f0c75b3a7c3ea0e8cea9f90b020c8cc",
+            "uiState": {
+                "mode": 1,
+                "x": 208,
+                "y": 64,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "window.experimental.useSandbox": true
+}
