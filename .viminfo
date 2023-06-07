@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1686181058,,"q"
 :wq
 |2,0,1686180734,,"wq"
-:q
-|2,0,1686180523,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,16 +27,32 @@
 # Registers:
 
 # File marks:
-'0  6  37  ~/.git/COMMIT_EDITMSG
-|4,48,6,37,1686180736,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/.gitconfig
-|4,49,1,0,1686180523,"~/.gitconfig"
-'2  5  31  ~/.gitconfig
-|4,50,5,31,1686180511,"~/.gitconfig"
-'3  5  31  ~/.gitconfig
-|4,51,5,31,1686180511,"~/.gitconfig"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1686181058,"~/.git/COMMIT_EDITMSG"
+'1  6  34  ~/.git/COMMIT_EDITMSG
+|4,49,6,34,1686180929,"~/.git/COMMIT_EDITMSG"
+'2  6  34  ~/.git/COMMIT_EDITMSG
+|4,50,6,34,1686180929,"~/.git/COMMIT_EDITMSG"
+'3  6  37  ~/.git/COMMIT_EDITMSG
+|4,51,6,37,1686180736,"~/.git/COMMIT_EDITMSG"
+'4  6  37  ~/.git/COMMIT_EDITMSG
+|4,52,6,37,1686180736,"~/.git/COMMIT_EDITMSG"
+'5  1  0  ~/.gitconfig
+|4,53,1,0,1686180523,"~/.gitconfig"
+'6  5  31  ~/.gitconfig
+|4,54,5,31,1686180511,"~/.gitconfig"
+'7  5  31  ~/.gitconfig
+|4,55,5,31,1686180511,"~/.gitconfig"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1686181058,"~/.git/COMMIT_EDITMSG"
+-'  6  34  ~/.git/COMMIT_EDITMSG
+|4,39,6,34,1686180929,"~/.git/COMMIT_EDITMSG"
+-'  6  34  ~/.git/COMMIT_EDITMSG
+|4,39,6,34,1686180929,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1686180916,"~/.git/COMMIT_EDITMSG"
 -'  6  37  ~/.git/COMMIT_EDITMSG
 |4,39,6,37,1686180736,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -45,6 +61,18 @@
 |4,39,1,0,1686180523,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1686180523,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180523,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180523,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180523,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180523,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180523,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180523,"~/.gitconfig"
 -'  5  31  ~/.gitconfig
 |4,39,5,31,1686180511,"~/.gitconfig"
 -'  5  31  ~/.gitconfig
@@ -53,6 +81,42 @@
 |4,39,5,31,1686180511,"~/.gitconfig"
 -'  5  31  ~/.gitconfig
 |4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1686180511,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180128,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180128,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180128,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180128,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180128,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1686180128,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1686180128,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
@@ -61,8 +125,8 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1686180733	0
-	"	6	37
+	*	1686181057	0
+	"	1	0
 	^	6	38
 	.	6	38
 	+	6	38
