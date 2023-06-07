@@ -1,3 +1,29 @@
 2023-06-07 16:13:19.262 [info] update#setState idle
 2023-06-07 16:13:49.327 [info] update#setState checking for updates
 2023-06-07 16:13:53.484 [info] update#setState idle
+2023-06-07 16:26:31.837 [error] [storage state.vscdb] prepare(): Error: SQLITE_FULL: database or disk is full (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: memento/gettingStartedService, colorThemeData Length: 7066
+2023-06-07 16:26:31.864 [error] [storage state.vscdb] transaction(): Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:31.874 [error] [uncaught exception in main]: Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:31.874 [error] Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:31.875 [error] [uncaught exception in main]: Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:31.875 [error] Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:32.657 [error] Error: Unable to write file '/Users/Einpunk Community/Documents/predominant-music/Library/Application Support/Code/User/globalStorage/storage.json' (Unknown (FileSystemError): Error: ENOSPC: no space left on device, write)
+    at e.FileService.writeFile (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:42:19592)
+    at async l.k (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:44:8244)
+2023-06-07 16:26:34.606 [error] [storage state.vscdb] prepare(): Error: SQLITE_FULL: database or disk is full (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: __$__targetStorageMarker, vscode.typescript-language-features Length: 2520
+2023-06-07 16:26:34.607 [error] [storage state.vscdb] transaction(): Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:34.608 [error] [uncaught exception in main]: Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:34.608 [error] Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:34.609 [error] [uncaught exception in main]: Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:26:34.609 [error] Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:27:27.700 [error] Error: Unable to write file '/Users/Einpunk Community/Documents/predominant-music/Library/Application Support/Code/User/globalStorage/storage.json' (Unknown (FileSystemError): Error: ENOSPC: no space left on device, write)
+    at e.FileService.writeFile (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:42:19592)
+    at async l.k (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:44:8244)
+2023-06-07 16:27:55.075 [error] [storage state.vscdb] prepare(): Error: SQLITE_FULL: database or disk is full (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: terminal.integrated.environmentVariableCollectionsV2 Length: 898
+2023-06-07 16:27:55.080 [error] [storage state.vscdb] prepare(): Error: SQLITE_FULL: database or disk is full (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: memento/gettingStartedService Length: 93
+2023-06-07 16:27:55.081 [error] [storage state.vscdb] transaction(): Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:27:55.083 [error] [uncaught exception in main]: Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:27:55.083 [error] Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:27:55.085 [error] [storage state.vscdb] transaction(): Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:27:55.086 [error] [uncaught exception in main]: Error: SQLITE_ERROR: cannot commit - no transaction is active
+2023-06-07 16:27:55.086 [error] Error: SQLITE_ERROR: cannot commit - no transaction is active

@@ -3,3 +3,5 @@
 .vscode-cli
 .cache
 Library
+.viminfo
+.gitconfig
